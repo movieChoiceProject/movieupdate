@@ -1,0 +1,83 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "412752_download-classic-movie-wallpapers-for-iphone_1920x1139_h.webp",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailapi",
+        "Elements",
+        "btnSend.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailapi",
+        "Elements",
+        "inptName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailapi",
+        "Elements",
+        "inptUserEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailapi",
+        "Elements",
+        "inptContent.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailapi",
+        "Elements",
+        "hmbrNav1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "emailapi",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
